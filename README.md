@@ -18,7 +18,7 @@ Check out my personal projects at [louiscreates.com](https://louiscreates.com), 
 - Discord: @tototomate123
 - E-Mail: contact@louiscreates.com
 
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Go+and+touch+some+grass.)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?lines=Quark+to+the+moon;(when+its+finished))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Quark+to+the+moon;(when+its+finished))](https://git.io/typing-svg)
 
 <!--
 **tototomate123/tototomate123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
