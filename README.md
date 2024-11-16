@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Louis
 
 ## 🧑‍💻 About Me
-I'm an 11th-grade student with a passion for **informatics** and a love for **coding**. Together with a friend, we're in the progress of developing a programming language called **Quark**, which combines features from TypeScript, Rust, and Go, aiming for power, speed, and familiarity.
+I'm an 11th-grade student with a passion for **informatics** and a love for **coding**. <!--Together with a friend, we're in the progress of developing a programming language called **Quark**, which combines features from TypeScript, Rust, and Go, aiming for power, speed, and familiarity. -->
 
 I enjoy working on a wide range of projects, from **backend development** to **compiler design**. My current interests revolve around creating **efficient programming tools**, working with **WebSockets**, and exploring **AI**.
 
@@ -19,7 +19,7 @@ Check out my personal projects at [louiscreates.com](https://louiscreates.com), 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tototomate123&layout=compact)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Quark+to+the+moon;(when+its+finished))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+could+write+something+cool+here;but+instead%2C+this+is+here;%5E_%5E)](https://git.io/typing-svg)
 
 <!--
 **tototomate123/tototomate123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
