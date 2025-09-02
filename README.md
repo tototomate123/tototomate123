@@ -8,14 +8,14 @@ I enjoy working on a wide range of projects, from **backend development** to **c
 
 ### 💡 Fun Facts
 - **Music Enthusiast**: I love listening to music - you can listen to my top tracks at [louiscreates.com](https://louiscreates.com).
-- **Tech Setup**: Running a dual-boot setup, with my main OS being **Arch Linux** *with an NVIDIA GPU*. I use Windows mainly for gaming.
+- **Tech Setup**: Running a dual-boot setup, with my main OS being **Arch Linux** *with an NVIDIA GPU (its working great...)*. If I use Windows, its only for gaming.
 
 ### 🔧 My Website
 Check out my personal projects at [louiscreates.com](https://louiscreates.com), where I write about my work and post updates :).
 
 ### 📫 Let's Connect
 - Discord: @tototomate123
-- E-Mail: contact@louiscreates.com
+- Matrix: [@louis:matrix.louiscreates.com](https://matrix.to/#/@louis:matrix.louiscreates.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tototomate123&layout=compact)
 
