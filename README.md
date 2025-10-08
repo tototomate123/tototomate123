@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Louis
 
 ## 🧑‍💻 About Me
-I'm an 11th-grade student with a passion for **informatics** and a love for **coding**. <!--Together with a friend, we're in the progress of developing a programming language called **Quark**, which combines features from TypeScript, Rust, and Go, aiming for power, speed, and familiarity. -->
+I'm an 12th-grade student with a passion for **informatics** and a love for **coding**. <!--Together with a friend, we're in the progress of developing a programming language called **Quark**, which combines features from TypeScript, Rust, and Go, aiming for power, speed, and familiarity. -->
 
 I enjoy working on a wide range of projects, from **backend development** to **compiler design**. My current interests revolve around creating **efficient programming tools**, working with **WebSockets**, and exploring **AI**.
 
