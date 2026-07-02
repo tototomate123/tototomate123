@@ -1,5 +1,8 @@
 # 👋 Hey, I'm Louis
 
+I have been doing everything on [Gitea](https://git.louiscreates.com/) for a few months now, so my github is only used for PRs and contributions to other projects usually.
+
+
 ## 🧑‍💻 About Me
 I'm an 12th-grade student with a passion for **informatics** and a love for **coding**. <!--Together with a friend, we're in the progress of developing a programming language called **Quark**, which combines features from TypeScript, Rust, and Go, aiming for power, speed, and familiarity. -->
 
