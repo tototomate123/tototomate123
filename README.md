@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Louis
 
-I have been doing everything on [Gitea](https://git.louiscreates.com/) for a few months now, so my github is only used for PRs and contributions to other projects usually.
+I have been doing everything on [Gitea](https://git.lou.rs/) for a few months now, so my github is only used for PRs and contributions to other projects usually.
 
 
 ## 🧑‍💻 About Me
@@ -10,11 +10,11 @@ I enjoy working on a wide range of projects, from **backend development** to **c
 
 
 ### 💡 Fun Facts
-- **Music Enthusiast**: I love listening to music - you can listen to my top tracks at [louiscreates.com](https://louiscreates.com).
+- **Music Enthusiast**: I love listening to music - you can listen to my top tracks at [lou.rs](https://lou.rs).
 - **Tech Setup**: Running a dual-boot setup, with my main OS being **Arch Linux** *with an NVIDIA GPU (its working great...)*. If I use Windows, its only for gaming.
 
 ### 🔧 My Website
-Check out my personal projects at [louiscreates.com](https://louiscreates.com), where I write about my work and post updates :).
+Check out my personal projects at [lou.rs](https://lou.rs), where I write about my work and post updates :).
 
 ### 📫 Let's Connect
 - Discord: @tototomate123
