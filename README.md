@@ -4,7 +4,7 @@ I have been doing everything on [Gitea](https://git.louiscreates.com/) for a few
 
 
 ## 🧑‍💻 About Me
-I'm an 12th-grade student with a passion for **informatics** and a love for **coding**. <!--Together with a friend, we're in the progress of developing a programming language called **Quark**, which combines features from TypeScript, Rust, and Go, aiming for power, speed, and familiarity. -->
+I'm an 13th-grade student with a passion for **informatics** and a love for **coding**. <!--Together with a friend, we're in the progress of developing a programming language called **Quark**, which combines features from TypeScript, Rust, and Go, aiming for power, speed, and familiarity. -->
 
 I enjoy working on a wide range of projects, from **backend development** to **compiler design**. My current interests revolve around creating **efficient programming tools**, working with **WebSockets**, and exploring **AI**.
 
@@ -18,7 +18,7 @@ Check out my personal projects at [louiscreates.com](https://louiscreates.com), 
 
 ### 📫 Let's Connect
 - Discord: @tototomate123
-- Matrix: [@louis:matrix.louiscreates.com](https://matrix.to/#/@louis:matrix.louiscreates.com)
+- Matrix: [@louis:lou.rs](https://matrix.to/#/@louis:lou.rs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tototomate123&layout=compact)
 
