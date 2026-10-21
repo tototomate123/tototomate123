@@ -10,8 +10,8 @@ I enjoy working on a wide range of projects, from **backend development** to **c
 
 
 ### 💡 Fun Facts
-- **Music Enthusiast**: I love listening to music - you can listen to my top tracks at [lou.rs](https://lou.rs).
-- **Tech Setup**: Running a dual-boot setup, with my main OS being **Arch Linux** *with an NVIDIA GPU (its working great...)*. If I use Windows, its only for gaming.
+- **Music Enthusiast**: I love listening to music
+- **Tech Setup**: Running a dual-boot setup, with my main OS being **Arch Linux** *with an NVIDIA GPU*. If I use Windows, its only for gaming.
 
 ### 🔧 My Website
 Check out my personal projects at [lou.rs](https://lou.rs), where I write about my work and post updates :).
@@ -19,8 +19,6 @@ Check out my personal projects at [lou.rs](https://lou.rs), where I write about 
 ### 📫 Let's Connect
 - Discord: @tototomate123
 - Matrix: [@louis:lou.rs](https://matrix.to/#/@louis:lou.rs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tototomate123&layout=compact)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+could+write+something+cool+here;but+instead%2C+this+is+here;%5E_%5E)](https://git.io/typing-svg)
 
